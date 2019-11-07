@@ -1,0 +1,13 @@
+.jumbotron{
+	
+		background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvitaegranelldelfuente.files.wordpress.com%2F2016%2F03%2Ficono_becas_prepa.png%3Fw%3D256%26h%3D257&f=1&nofb=1");
+		background-repeat: no-repeat;
+}
+.prueba{
+	background-color: white;
+	background-image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvitaegranelldelfuente.files.wordpress.com%2F2016%2F03%2Ficono_becas_prepa.png%3Fw%3D256%26h%3D257&f=1&nofb=1";
+}
+
+.barra:hover{
+	background-color:black;
+}
